@@ -15,5 +15,11 @@
 
 ## Project status
     Getting familiarized with dataset
+    Splitting test data from training - in progress
     Understanding diffusion models
+    Score based diffusion models has been setup
+    Running inference on test data
+## Future steps
+    Do evaluation on inference data
+    Compare the results with stable or VarNet whichever is promising
 
